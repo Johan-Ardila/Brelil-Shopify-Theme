@@ -1,0 +1,127 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "h1,h2,h3,h4,h5,h6 {font-family: montserrat;}",
+        "h1 {font-weight: bold; color: #403a31;}",
+        ".collection-hero__inner {padding-bottom: 20px; padding-top: 20px;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-2"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        "h1,h2,h3,h4,h5,h6 {font-family: montserrat;}",
+        "h1 {font-weight: bold; color: #403a31;}"
+      ],
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_ryagtm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_P9XNBW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/truck.svg",
+            "title": "Envíos a todo Colombia",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gtM3Fd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/wallet2.svg",
+            "title": "Todos los medios de pago",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JJkHBX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4337654.png",
+            "title": "No testeado en animales",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bn8g8k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1227699.png",
+            "title": "Sostenible con el medio ambiente",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_P9XNBW",
+        "column_gtM3Fd",
+        "column_JJkHBX",
+        "column_bn8g8k"
+      ],
+      "custom_css": [
+        ".media--square {display: flex; justify-content: center; padding-bottom: 0;}",
+        ".media--square img {position: relative; width: 50px;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "multicolumn_ryagtm"
+  ]
+}

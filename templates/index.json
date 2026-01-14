@@ -1,0 +1,586 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_mV863e": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_EEEewi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Uvas.png",
+            "heading": "<strong>silver blonde</strong>",
+            "heading_size": "h1",
+            "subheading": "Te invitamos a explorar nuestro nuevo catálogo de nuestra linea <strong>silver blonde</strong>",
+            "button_label": "VER PRODUCTOS",
+            "link": "shopify://collections/linea-silver-blonde",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_4XUKxR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Milky-2.png",
+            "heading": "<strong>Linea milky</strong>",
+            "heading_size": "h0",
+            "subheading": "Revisa nuestra linea milky enfocada en nutrir tu pelo",
+            "button_label": "VER PRODUCTOS",
+            "link": "shopify://collections/linea-milky-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_ip6qUY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/S.png",
+            "heading": "<strong>Coloración capilar</strong>",
+            "heading_size": "h1",
+            "subheading": "Héchale un vistazo a nuestro catálogo enfocado en los tintes y tratamientos post-tinte",
+            "button_label": "COMPRAR AHORA",
+            "link": "shopify://collections/coloracion-capilar",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_GXfPcP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Avocado_c0fed74c-d621-4b84-8906-12dba28c41eb.png",
+            "heading": "<strong>Productos para styling</strong>",
+            "heading_size": "h1",
+            "subheading": "Revisa nuestro amplio catalogo de la linea styling para todo tipo de cabello",
+            "button_label": "COMPRAR AHORA",
+            "link": "shopify://collections/peinado-y-styling",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_EEEewi",
+        "slide_4XUKxR",
+        "slide_ip6qUY",
+        "slide_GXfPcP"
+      ],
+      "custom_css": [],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h1,h2,h3,h4,h5,h6 {font-family: montserrat;}",
+        "h2 {font-weight: bold; color: #403a31;}"
+      ],
+      "settings": {
+        "title": "Productos más Vendidos",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 6,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_7jdAiy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PgCAeD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/testimonios-cinco-estrellas-de-oro.png",
+            "title": "Juliana M,",
+            "text": "<p>Desde que uso los productos Brelil, mi pelo se siente más suave y con un brillo natural increíble. Se nota la diferencia desde la primera aplicación!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qn6dck": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/testimonios-cinco-estrellas-de-oro.png",
+            "title": "Camila O.",
+            "text": "<p>Brelil me devolvió la confianza en mi cabello. Después de años de daño por tintes, su línea Milky lo dejó nutrido y fuerte otra vez</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yTNMeL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/testimonios-cinco-estrellas-de-oro.png",
+            "title": "Mariana T.",
+            "text": "<p>Me encanta el olor y la textura. Son profesionales, efectivos y dejan el cabello espectacular.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PgCAeD",
+        "column_qn6dck",
+        "column_yTNMeL"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Qué dicen nuestras clientes</strong>",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_LY8WJM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RWy6G9": {
+          "type": "heading",
+          "settings": {
+            "heading": "APROVECHA",
+            "heading_size": "h1"
+          }
+        },
+        "text_dPprLY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Descuento exclusivo por cambio de imagen en nuestra mascarilla</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RWy6G9",
+        "text_dPprLY"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_product_rRjwxX": {
+      "type": "featured-product",
+      "blocks": {
+        "title_4jntBw": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_eQjMt8": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_yTEXzt": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_4VU3EN": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_wtxiiP": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "share_mQdrGd": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title_4jntBw",
+        "price_eQjMt8",
+        "variant_picker_yTEXzt",
+        "quantity_selector_4VU3EN",
+        "buy_buttons_wtxiiP",
+        "share_mQdrGd"
+      ],
+      "disabled": true,
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "2",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_M6EpEq": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Rhq4id": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "linea-milky"
+          }
+        },
+        "featured_collection_tw9UdW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "coloracion-capilar"
+          }
+        },
+        "featured_collection_DKzL9D": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "volumen-y-estilo"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Rhq4id",
+        "featured_collection_tw9UdW",
+        "featured_collection_DKzL9D"
+      ],
+      "custom_css": [
+        ".card:not(.ratio) {background: #fff; padding: 10px; border-radius: 20px;}",
+        ".collection-list-wrapper {background: #e7e3d9;}"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "<strong>Compra por categoría</strong>",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_qBUmXn": {
+      "type": "featured-product",
+      "blocks": {
+        "text_xkbMXM": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_kXdxXf": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_jJazmK": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_8ChNbn": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_8NnBT8": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_DmXY9i": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "text_xkbMXM",
+        "title_kXdxXf",
+        "price_jJazmK",
+        "variant_picker_8ChNbn",
+        "quantity_selector_8NnBT8",
+        "buy_buttons_DmXY9i"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h1,h2,h3,h4,h5,h6 {font-family: montserrat;}",
+        "h1 {font-weight: bold; color: #403a31;}"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "20",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_ydQ7br": {
+      "type": "collage",
+      "blocks": {
+        "image_6YA3zb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Diseno_sin_titulo_28.png"
+          }
+        },
+        "product_hKXxmN": {
+          "type": "product",
+          "settings": {
+            "product": "5",
+            "second_image": false
+          }
+        },
+        "collection_Ya3GW6": {
+          "type": "collection",
+          "settings": {
+            "collection": "linea-milky"
+          }
+        }
+      },
+      "block_order": [
+        "image_6YA3zb",
+        "product_hKXxmN",
+        "collection_Ya3GW6"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h1,h2,h3,h4,h5,h6 {font-family: montserrat;}",
+        "h1 {font-weight: bold; color: #403a31;}"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_dm6NqL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TUqCVG": {
+          "type": "heading",
+          "settings": {
+            "heading": "INNOVACIÓN Y CALIDAD",
+            "heading_size": "h1"
+          }
+        },
+        "text_fea9tx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nuestros productos están formulados por expertos y probados en laboratorios con los más altos estándares. Desde tratamientos capilares hasta cosmética diaria, cada línea está pensada para darte lo mejor de la naturaleza y la ciencia.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_TnNdDa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explorar productos",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TUqCVG",
+        "text_fea9tx",
+        "button_TnNdDa"
+      ],
+      "custom_css": [
+        ".image-with-text__media {border: none;}",
+        ".image-with-text__content {background: #ededed;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Quality.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_bmp6bc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_M9qxP6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/truck.svg",
+            "title": "Envíos a todo Colombia",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ahMQmc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/wallet2.svg",
+            "title": "Todos los medios de pago",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_y78RWz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4337654.png",
+            "title": "No testeado en animales",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aPjqWw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1227699.png",
+            "title": "Sostenible con el medio ambiente",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_M9qxP6",
+        "column_ahMQmc",
+        "column_y78RWz",
+        "column_aPjqWw"
+      ],
+      "custom_css": [
+        ".media--square {display: flex; justify-content: center; padding-bottom: 0;}",
+        ".media--square img {position: relative; width: 50px;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "slideshow_mV863e",
+    "featured_collection",
+    "multicolumn_7jdAiy",
+    "rich_text_LY8WJM",
+    "featured_product_rRjwxX",
+    "collection_list_M6EpEq",
+    "featured_product_qBUmXn",
+    "collage_ydQ7br",
+    "image_with_text_dm6NqL",
+    "multicolumn_bmp6bc"
+  ]
+}

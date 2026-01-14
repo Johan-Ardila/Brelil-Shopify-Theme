@@ -1,0 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {}
+    },
+    "image_with_text_iEz6G3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_YmVpza": {
+          "type": "heading",
+          "settings": {
+            "heading": "404",
+            "heading_size": "h1"
+          }
+        },
+        "text_GVg4aY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Página no encontrada</p>",
+            "text_style": "body"
+          }
+        },
+        "button_AKnUiy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Seguir comprando",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_YmVpza",
+        "text_GVg4aY",
+        "button_AKnUiy"
+      ],
+      "custom_css": [
+        "h1,h2,h3,h4,h5,h6 {font-family: montserrat;}",
+        "h1 {font-weight: bold; color: #403a31;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Diseno_sin_titulo_4_98fe533c-44ab-4bae-bd9c-4da9a565ab69.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "accent-2",
+        "color_scheme": "accent-2",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_iEz6G3"
+  ]
+}

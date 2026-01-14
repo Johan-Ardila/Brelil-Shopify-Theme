@@ -1,0 +1,59 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_Ek3MDb": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>COMPRAR</strong>",
+            "menu": "categor-as-footer"
+          }
+        },
+        "link_list_7GMCjf": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>INFORMACIÓN</strong>",
+            "menu": "footer-contacto"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_Ek3MDb",
+        "link_list_7GMCjf"
+      ],
+      "custom_css": [
+        "h1,h2,h3,h4,h5,h6 {font-family: montserrat;}",
+        "h1 {font-weight: bold;}"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "<strong>SUSCRÍBETE Y RECIBE NOVEDADES</strong>",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 52,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
