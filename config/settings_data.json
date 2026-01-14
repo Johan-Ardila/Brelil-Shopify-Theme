@@ -111,8 +111,8 @@
     "brand_description": "<p></p>",
     "brand_image": "shopify://shop_images/plants.png",
     "brand_image_width": 100,
-    "social_facebook_link": "https://www.facebook.com/brelilcol/?locale=es_LA",
-    "social_instagram_link": "https://www.instagram.com/brelil_col/?hl=en",
+    "social_facebook_link": "https://www.facebook.com",
+    "social_instagram_link": "https://www.instagram.com",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -149,7 +149,7 @@
       "moship-whatsapp-button": {
         "type": "moship-whatsapp-button",
         "settings": {
-          "phone": "+573117334964"
+          "phone": "+5700000000000"
         }
       }
     },
